@@ -2,8 +2,8 @@
 
 class BinarySearchRotatedArray:
 
-    def get_minimum(self):
-        a = [3,4,5,6,7,1,2]
+    def get_minimum(self, inp):
+        a = inp
         low = 0
         high = len(a) - 1
         # this condition here solves everything!!
@@ -17,12 +17,4 @@ class BinarySearchRotatedArray:
                 high = mid
 
         return low,a[low],a[high]
-
-
-obj = BinarySearchRotatedArray()
-low,low_value,high_value= obj.get_minimum()
-print low , low_value , high_value
-
-
-
 
