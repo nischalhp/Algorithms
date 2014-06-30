@@ -14,10 +14,3 @@ class CheckIfStringHasUniqueCharacters:
 
         return True
 
-
-
-obj = CheckIfStringHasUniqueCharacters()
-unique = obj.find_if_string_has_unique_chars('hello')
-print unique
-unique = obj.find_if_string_has_unique_chars('helo')
-print unique
