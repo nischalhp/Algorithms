@@ -1,4 +1,4 @@
-from CheckIfStringHasUniqueCharacters import CheckIfStringHasUniqueCharacters 
+from main.CheckIfStringHasUniqueCharacters import CheckIfStringHasUniqueCharacters 
 
 from nose.tools import eq_
 

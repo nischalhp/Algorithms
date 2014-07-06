@@ -1,4 +1,4 @@
-from BinarySearchRotatedArray import BinarySearchRotatedArray
+from main.BinarySearchRotatedArray import BinarySearchRotatedArray
 
 from nose.tools import eq_
 
