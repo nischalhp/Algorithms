@@ -11,4 +11,5 @@
 
  * Understanding stacks and queues and how they work is very important. With basic and right understanding, complex problems can be solved.
  
+ * Why queues are difficult to implement compared stacks? The reason being - Queues have rear and front i.e elements are added to the rear and removed from front. This makes it more complex to write as stacks just have one place to push and pop.
 
