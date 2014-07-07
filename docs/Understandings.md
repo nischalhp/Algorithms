@@ -13,3 +13,6 @@
  
  * Why queues are difficult to implement compared stacks? The reason being - Queues have rear and front i.e elements are added to the rear and removed from front. This makes it more complex to write as stacks just have one place to push and pop.
 
+ * The conceptual picture of a stack is something like this:
+
+ * Very good read on stacks and queues : http://pages.cs.wisc.edu/~vernon/cs367/notes/5.STACKS-AND-QUEUES.html#ans1
