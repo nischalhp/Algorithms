@@ -20,3 +20,7 @@
 ## SQL
  
   * Difference between primary and secondary indexes:http://dev.mysql.com/doc/refman/5.0/en/innodb-index-types.html
+
+## Breadth first and Depth first difference
+
+  * http://www.programmerinterview.com/index.php/data-structures/dfs-vs-bfs/
