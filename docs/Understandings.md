@@ -15,3 +15,8 @@
 
 
  * Very good read on stacks and queues : http://pages.cs.wisc.edu/~vernon/cs367/notes/5.STACKS-AND-QUEUES.html#ans1
+
+
+## SQL
+ 
+  * Difference between primary and secondary indexes:http://dev.mysql.com/doc/refman/5.0/en/innodb-index-types.html
